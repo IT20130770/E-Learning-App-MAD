@@ -8,7 +8,11 @@ Students feel bored while studying in the same pattern. For a change Quick Learn
 There are five main functionalities we identified in this system.
 
 • User profile management function
+
 • Subject management function
+
 • Book store management function
+
 • Mini quiz handling function
+
 • Advertisement handling function
